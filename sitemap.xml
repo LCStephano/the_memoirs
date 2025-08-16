@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ledifese101.github.io/the_chronicles/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://gonzaloX41.github.io/the_chronicles/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/</loc>
+<loc>https://gonzaloX41.github.io/the_chronicles/</loc>
 </url>
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/chicken-rice.html</loc>
-<lastmod>2025-08-15T02:43:03+08:00</lastmod>
+<loc>https://gonzaloX41.github.io/the_chronicles/chicken-rice.html</loc>
+<lastmod>2025-08-17T01:34:56+08:00</lastmod>
 </url>
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/follow-them.html</loc>
+<loc>https://gonzaloX41.github.io/the_chronicles/follow-them.html</loc>
 <lastmod>2025-08-15T01:12:19+08:00</lastmod>
 </url>
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/my-favourite-slasher.html</loc>
-<lastmod>2025-08-15T02:43:15+08:00</lastmod>
+<loc>https://gonzaloX41.github.io/the_chronicles/my-favourite-slasher.html</loc>
+<lastmod>2025-08-17T01:35:02+08:00</lastmod>
 </url>
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/pilot.html</loc>
-<lastmod>2025-08-15T02:43:23+08:00</lastmod>
+<loc>https://gonzaloX41.github.io/the_chronicles/pilot.html</loc>
+<lastmod>2025-08-17T01:35:07+08:00</lastmod>
 </url>
 <url>
-<loc>https://ledifese101.github.io/the_chronicles/test.html</loc>
-<lastmod>2025-08-12T01:06:21+08:00</lastmod>
+<loc>https://gonzaloX41.github.io/the_chronicles/test.html</loc>
+<lastmod>2025-08-17T01:18:03+08:00</lastmod>
 </url>
 </urlset>
