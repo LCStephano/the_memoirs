@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title><svg class="fi fi-power" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://gonzaloX41.github.io/the_chronicles/media/plugins/featherIcons/feather-sprite.svg#power" /></svg></title>
-    <link href="https://gonzaloX41.github.io/the_chronicles/feed.xml" rel="self" />
-    <link href="https://gonzaloX41.github.io/the_chronicles" />
+    <title><svg class="fi fi-power" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://gonzaloX41.github.io/the_memoirs/media/plugins/featherIcons/feather-sprite.svg#power" /></svg></title>
+    <link href="https://gonzaloX41.github.io/the_memoirs/feed.xml" rel="self" />
+    <link href="https://gonzaloX41.github.io/the_memoirs" />
     <updated>2025-08-19T13:17:00+08:00</updated>
     <author>
         <name>GonzaloX41</name>
     </author>
-    <id>https://gonzaloX41.github.io/the_chronicles</id>
+    <id>https://gonzaloX41.github.io/the_memoirs</id>
 
     <entry>
         <title>A Philosophy of Eating Beef.</title>
         <author>
             <name>GonzaloX41</name>
         </author>
-        <link href="https://gonzaloX41.github.io/the_chronicles/a-philosophy-of-eating-beef.html"/>
-        <id>https://gonzaloX41.github.io/the_chronicles/a-philosophy-of-eating-beef.html</id>
+        <link href="https://gonzaloX41.github.io/the_memoirs/a-philosophy-of-eating-beef.html"/>
+        <id>https://gonzaloX41.github.io/the_memoirs/a-philosophy-of-eating-beef.html</id>
             <category term="reflections"/>
             <category term="food and bev"/>
             <category term="08/2025"/>
@@ -48,8 +48,8 @@
         <author>
             <name>GonzaloX41</name>
         </author>
-        <link href="https://gonzaloX41.github.io/the_chronicles/chicken-rice.html"/>
-        <id>https://gonzaloX41.github.io/the_chronicles/chicken-rice.html</id>
+        <link href="https://gonzaloX41.github.io/the_memoirs/chicken-rice.html"/>
+        <id>https://gonzaloX41.github.io/the_memoirs/chicken-rice.html</id>
             <category term="food and bev"/>
             <category term="08/2025"/>
 
@@ -78,8 +78,8 @@
         <author>
             <name>GonzaloX41</name>
         </author>
-        <link href="https://gonzaloX41.github.io/the_chronicles/my-favourite-slasher.html"/>
-        <id>https://gonzaloX41.github.io/the_chronicles/my-favourite-slasher.html</id>
+        <link href="https://gonzaloX41.github.io/the_memoirs/my-favourite-slasher.html"/>
+        <id>https://gonzaloX41.github.io/the_memoirs/my-favourite-slasher.html</id>
             <category term="random thoughts"/>
             <category term="08/2025"/>
 
@@ -113,8 +113,8 @@
         <author>
             <name>GonzaloX41</name>
         </author>
-        <link href="https://gonzaloX41.github.io/the_chronicles/pilot.html"/>
-        <id>https://gonzaloX41.github.io/the_chronicles/pilot.html</id>
+        <link href="https://gonzaloX41.github.io/the_memoirs/pilot.html"/>
+        <id>https://gonzaloX41.github.io/the_memoirs/pilot.html</id>
             <category term="random thoughts"/>
             <category term="08/2025"/>
 

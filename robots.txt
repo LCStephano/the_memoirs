@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://gonzaloX41.github.io/the_chronicles/sitemap.xml
+Sitemap: https://gonzaloX41.github.io/the_memoirs/sitemap.xml
